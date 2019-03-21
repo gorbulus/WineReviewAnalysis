@@ -44,10 +44,13 @@ I think that this dataset offers some great opportunities for sentiment analysis
 ## Project goals
 
 1. Import and inspect the dataset using ```pandas```.
+    
 2. Analyze the dataset using ```pandas``` and ```numpy```.
+    
 3. Create visualizations using ```matplotlib``` and ```seaborn```.
+    
 4. Interpret meanings from the data using the ```Scientific Method``` ("Data Science!").
-
+    
 
 ## Project Stack
 Python has a rich Data Science functionality that has been motivated by teams of scientists and engineers trying to solve scientific and engineering problems.  Python's Object Oriented Design, ease of syntax, and available libraries make it the industry standard for Data Analysis.  A 2016 study done by [O'Reily](https://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf) shows that ```Python``` is now dominant over ```R``` throughout the Data Science community, favoring ```Python 3.6``` to the soon to be extinct ```Python 2.7```.  
