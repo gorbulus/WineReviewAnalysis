@@ -25,20 +25,20 @@ Github: [gorbulus](https://github.com/gorbulus)
 
 #### Welcome to Team Pura Vida's Wine Review Analysis for the [RMOTR](https://rmotr.com/) Data Science Coursework.  
 
-I will be using common DS Techniques to explore a dataset of Wine Reviews that I found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews). 
-
 Started: 2.17.19
 
 Completed: 3.17.19
 
 ### Project Vision Statement: 
 
-To use Python and Data Science skills to elegantly interpret a dataset in a complete analysis project.
+This project will explore a dataset with Python and use standard Data Science skills to clean, analyze, visualize, and interpret data  and elegantly use the data patterns to provide scientific meaning to a dataset I found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews).
 
-## Inspiration & Scientific Method
+## Inspiration
 
-As an epicurean who has been involved in the Food Industry my entire career, I wanted this project to be related to a culinary dataset of some kind.  The wine review dataset caught my attention because I always had been suspicious of quality and price being directly related in the consumer's mind.  
-I think that this dataset offers some great opportunities for sentiment analysis and other text related predictive models. My overall goal is to create a model that can identify the variety, winery, and location of a wine based on a description. If anyone has any ideas, breakthroughs, or other interesting insights/models please post them.
+Since I have spent the majority of my career in the FoodService and FoodService Equipment Industry, I wanted this project to be related to a culinary dataset of some kind.  The Wine Review dataset caught my attention because I always had been suspicious of the concepts of quality and price being directly affect the consumer's mind.  Usually "you get what you pay for" is a safe bet, but sometimes a more expensive commodity is not the "best" or preferred choice for consumers.  This is especially evident in the Food Industry where epicurean prices are related to a subjective palette.  I want to analyze the Wine Reviews and see if the more expensive wines are always the highest rated ones by consumers.
+    
+
+I think that this dataset offers some great opportunities for text related predictive models. My overall goal in the future is to use another version of this dataset (with three additional columns) to do some predictive analysis on the Text based ```Description``` column. Ultimately I am interested in building a bot that could produce a convincing Wine Review.  If anyone has any ideas, breakthroughs, or other interesting insights/models please post them~!  Feel free to fork as well.  I am open to constructive feedback and tips as well.  
 
 
 ## Project goals
@@ -51,7 +51,6 @@ I think that this dataset offers some great opportunities for sentiment analysis
     
 4. Interpret meanings from the data using the ```Scientific Method``` ("Data Science!").
     
-
 ## Project Stack
 Python has a rich Data Science functionality that has been motivated by teams of scientists and engineers trying to solve scientific and engineering problems.  Python's Object Oriented Design, ease of syntax, and available libraries make it the industry standard for Data Analysis.  A 2016 study done by [O'Reily](https://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf) shows that ```Python``` is now dominant over ```R``` throughout the Data Science community, favoring ```Python 3.6``` to the soon to be extinct ```Python 2.7```.  
 
@@ -96,7 +95,8 @@ To get everything running in this project, use ```pip install -r requirements.tx
 
 ## Dataset Overview
 
-
+I searched Food related datasets on [kaggle](https://www.kaggle.com/) and found the Wine Review dataset.  I was looking for a medium sized CSV file between 50MB - 1GB.  I also wanted something that would take some processing but wasn't a wrangling project.  I wanted to make some visualizations as well using the ```seaborn``` library.  I used kaggle's filtering and search and found the [Wine Review](https://www.kaggle.com/zynicide/wine-reviews/) dataset.
+    
 The data was scraped from [Wine Enthusiast Magazine](https://www.winemag.com/) during the week of June 15th, 2017.
 
 This dataset is 150,930 Wine Reviews in one csv file of about 50 MB:
@@ -109,6 +109,7 @@ Each record in the dataset represents a single wine review from an online user o
 The following is a brief summary of the 10 different columns of data included in ```winemag-data_first150k.csv```:
 
 ![reviews_df_dtypes](https://user-images.githubusercontent.com/19881320/54575190-7c0d2080-49c9-11e9-97b4-46c510a2c89d.jpg)
+    
 
 ## Data Columns
 
@@ -132,11 +133,16 @@ The following is a brief summary of the 10 different columns of data included in
 
 10. Winery - The winery that made the wine.
 
+    
+## Analysis
+    
+Check out the [WineReviewAnalysis](WineReviewAnalysis.ipynb) Notebook for the analysis.
 
-## Dependencies
+    
+### Dependencies
 To get everything running, use ```pip install -r requirements.txt```
 
-
+    
 ### Contact Information
 What did you think about the Wine Review Analysis?
 
@@ -151,4 +157,3 @@ REPL: [@gorbulus](https://repl.it/@gorbulus)
 William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/) 
 
 ![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
-
