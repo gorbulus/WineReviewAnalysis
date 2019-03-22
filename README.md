@@ -143,10 +143,29 @@ Check out the [WineReviewAnalysis](WineReviewAnalysis.ipynb) Notebook for the an
 To get everything running, use ```pip install -r requirements.txt```
 
     
+### Results
+After cleaning and inspecting the Wine Reviews dataset, we used numerical and statistical analysis to create visualizations from the dataset.  Using the focused plotting of point distributions, jointplots, and heatmaps, it has been determined that the best value of wines in the 150,930 reviews is as follows:
+    
+- Made in California
+- A Chardonnay, Pinot Grigio, or Cabernet Savignon
+- 12.00 - 18.00 USD per bottle
+- 87.5 or greater points is highly likely
+    
+### Conclusions
+- California is well known for its Wine producing industry, and agriculture capabilities.
+
+- This means that overall, wines in the 10.00 - 20.00 range have frequently better ratings when compared to more expensive wines.
+
+- This could be due to the price point of these wines, or the fact that most consumers drink expensive wines less frequently or only for special occasions.
+
+- It makes sense for the wine producers to focus on the market demand for their products and target their resources towards the taste of the public.
+
+- There is no correlation between price and quality when comparing the majority of commercial wines.
+   
 ### Contact Information
 What did you think about the Wine Review Analysis?
 
-Let's talk.
+Cheers.
 
 Email: [@gorbulus](waponton@gmail.com)
 
