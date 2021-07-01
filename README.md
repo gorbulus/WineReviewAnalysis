@@ -12,7 +12,7 @@
 
 ## Contact Information
 
-William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/) 
+William Ponton: [LinkedIn](https://www.linkedin.com/in/williamponton/) 
 
 Email: [@gorbulus](waponton@gmail.com)
 
@@ -173,6 +173,6 @@ Github: [gorbulus](https://github.com/gorbulus)
 
 REPL: [@gorbulus](https://repl.it/@gorbulus)
 
-William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/) 
+William Ponton: [LinkedIn](https://www.linkedin.com/in/williamponton/) 
 
 ![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
